@@ -1,5 +1,5 @@
-                                                                                         # Amazon Alchemy
-                                                                          ## Analyzing Amazon's Product and Video Sales  
+# Amazon Alchemy
+## Analyzing Amazon's Product and Video Sales  
 - Gain a competitive edge by leveraging our comprehensive dashboard, revealing trends and patterns in both Amazon product sales and Prime Video consumption.
   ![image](https://github.com/Lokasunder-s/Amazon_Insights_Dashboard/assets/154940528/ed3c44f3-942d-402a-94ea-d157e4cc45d5)
   ![image](https://github.com/Lokasunder-s/Amazon_Insights_Dashboard/assets/154940528/f55293ae-0d34-4394-986a-adbe33517bc6)
